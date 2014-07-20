@@ -1,10 +1,7 @@
 repo
-<<<<<<< HEAD
-====
-=======
 ====
 re
 ----
-
 Mas mas mas y MAS
->>>>>>> f5b63696cdc00720bc71fb7c94f605dad9301600
+
+Bueno, bueno, bueno, vamos a ver si esto tira bien...
